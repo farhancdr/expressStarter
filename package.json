@@ -1,17 +1,14 @@
 {
   "name": "expressbasic",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "node-fetch": "^2.6.1"
+  "repository": "https://github.com/farhancdr/firstexpress.git",
+  "author": "farhancdr <pyfrhn@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "7.2.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "2.22.1",
+    "prettier": "^2.3.1"
   }
 }
